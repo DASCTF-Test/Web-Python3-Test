@@ -1,4 +1,4 @@
-FROM dasctf/web_python3
+FROM dasctfbase/web_python3
 
 COPY src /app/
 
